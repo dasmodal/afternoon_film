@@ -31,7 +31,7 @@ bundle exec ruby main.rb
 ```
 ### App work process
 
-[![afternoon_film_app_process.md.gif](https://s4.gifyu.com/images/afternoon_film_app_process.md.gif)](https://gifyu.com/image/S3yzX)
+[![afternoon_film_app_process.gif](https://s4.gifyu.com/images/afternoon_film_app_process.gif)](https://gifyu.com/image/S3yzX)
 
 ## Tests
 This app has rspec tests and if you want to test the app:
